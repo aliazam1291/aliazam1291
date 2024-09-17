@@ -48,10 +48,10 @@
 
 <h3 align="center">🔥 GitHub Streak:</h3>
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aliazam1291&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aliazam1291&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <h3 align="center">🐍 Watch my contribution graph get eaten by the snake:</h3>
 <p align="center">
-  ![snake gif](https://github.com/aliazam1291/aliazam1291/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/aliazam1291/aliazam1291/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph Snake" />
 </p>
