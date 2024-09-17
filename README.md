@@ -2,9 +2,9 @@
 
 ![Coding](https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif)
 
-I'm a front-end developer and UI/UX designer with a flair for creating beautiful and intuitive digital experiences. Currently, I'm diving deep into React and Next.js. 🚀
-
 ## 🌟 About Me
+
+I'm a front-end developer and UI/UX designer with a flair for creating beautiful and intuitive digital experiences. Currently, I'm diving deep into React and Next.js. 🚀
 
 - 💻 **Skills**: Front-End Development, UI/UX Design, Case Studies, Figma, Illustrator, Canva, C++, Java, Python, JavaScript
 - 🌱 **Currently Learning**: React and Next.js
