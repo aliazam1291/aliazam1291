@@ -23,18 +23,19 @@ Explore my portfolio on [Figma](https://www.figma.com/design/mmfcZIoZ4VeUidOXDIP
 Here’s a glimpse of my toolkit. These icons come with a side of humor because coding shouldn’t be too serious!
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32"/> **HTML5:** The backbone of every great web page!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32"/> **CSS3:** For styling that’s not just nice, but *spicy*!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"/> **JavaScript:** Making the web interactive and fun!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="32" height="32"/> **React:** Building dynamic UIs like a boss!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="32" height="32"/> **Next.js:** For server-side rendering that’s a breeze!<br/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="32" height="32"/> **Figma:** Designing with flair and creativity!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="32" height="32"/> **Illustrator:** Crafting vector magic!<br/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/canva.svg" alt="Canva" width="32" height="32"/> **Canva:** For quick and creative designs!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/> **C++:** The classic language with a modern twist!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="32" height="32"/> **Java:** For when you need that robust touch!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/> **Python:** The language that makes everything better!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32"/> <b>HTML5:</b> The backbone of every great web page!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32"/> <b>CSS3:</b> For styling that’s not just nice, but <i>spicy</i>!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"/> <b>JavaScript:</b> Making the web interactive and fun!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="32" height="32"/> <b>React:</b> Building dynamic UIs like a boss!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="32" height="32"/> <b>Next.js:</b> For server-side rendering that’s a breeze!<br/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="32" height="32"/> <b>Figma:</b> Designing with flair and creativity!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="32" height="32"/> <b>Illustrator:</b> Crafting vector magic!<br/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/canva.svg" alt="Canva" width="32" height="32"/> <b>Canva:</b> For quick and creative designs!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/> <b>C++:</b> The classic language with a modern twist!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="32" height="32"/> <b>Java:</b> For when you need that robust touch!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/> <b>Python:</b> The language that makes everything better!<br/>
 </p>
+
 
 
 ## 🌐 Connect with Me
