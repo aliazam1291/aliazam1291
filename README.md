@@ -23,10 +23,6 @@ I'm a front-end developer and UI/UX designer with a flair for creating beautiful
 
 Explore my portfolio on [Figma](https://www.figma.com/design/mmfcZIoZ4VeUidOXDIP3OD/My-design-Portfolio?node-id=1-94&t=DdTFDB5v7LMPPjXS-1)! 🎨
 
-## 🔧 GitHub Actions Workflow
-
-Check out my [GitHub Actions workflow](https://github.com/aliazam1291/aliazam1291/blob/main/main.yml) to see how I'm automating tasks like a pro! 🛠️
-
 ## 🛠️ Technologies & Tools
 
 Here’s a sneak peek into my toolkit:
@@ -36,7 +32,8 @@ Here’s a sneak peek into my toolkit:
 - **JavaScript**: Making the web interactive and fun!
 - **React**: Building dynamic UIs like a boss!
 - **Next.js**: For server-side rendering that’s a breeze!
-- **Figma**: Designing with flair and creativity!
+- **Figma**: Designing with flair and creativity! 
+  ![Figma Icon](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
 - **Illustrator**: Crafting vector magic!
 - **C++**: The classic language with a modern twist!
 - **Java**: For when you need that robust touch!
@@ -46,8 +43,8 @@ Here’s a sneak peek into my toolkit:
 
 Let's stay connected and exchange ideas!
 
-- [LinkedIn](https://www.linkedin.com/in/aliazam-kazmi/)
-- [Instagram](https://instagram.com/smaak.ux)
-- [GitHub](https://github.com/aliazam1291)
+- [![LinkedIn](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg)](https://www.linkedin.com/in/aliazam-kazmi/)
+- [![Instagram](https://user-images.githubusercontent.com/75165587/119674243-ad12f680-be59-11eb-9416-7b00e0b992df.png)](https://instagram.com/smaak.ux)
+- [![GitHub](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg)](https://github.com/aliazam1291)
 
 Feel free to explore and get in touch. Let’s create something amazing together! 🚀
