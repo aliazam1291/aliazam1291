@@ -22,7 +22,7 @@ Explore my portfolio on [Figma](https://www.figma.com/design/mmfcZIoZ4VeUidOXDIP
 
 Here’s a glimpse of my toolkit. These icons come with a side of humor because coding shouldn’t be too serious!
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32"/> **HTML5**: The backbone of every great web page!<br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32"/> **CSS3**: For styling that’s not just nice, but *spicy*!<br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"/> **JavaScript**: Making the web interactive and fun!<br/>
@@ -35,6 +35,7 @@ Here’s a glimpse of my toolkit. These icons come with a side of humor because 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="32" height="32"/> **Java**: For when you need that robust touch!<br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/> **Python**: The language that makes everything better!<br/>
 </p>
+
 
 ## 🌐 Connect with Me
 
