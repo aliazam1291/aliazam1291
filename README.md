@@ -15,13 +15,12 @@ I'm a front-end developer and UI/UX designer with a flair for creating beautiful
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aliazam1291&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## 🐍 Watch My Contribution Graph Get Eaten by the Snake
-
-![snake gif](https://github.com/aliazam1291/aliazam1291/blob/output/github-contribution-grid-snake.svg)
 
 ## 💼 Check Out My Design Work
 
-Explore my portfolio on [Figma](https://www.figma.com/design/mmfcZIoZ4VeUidOXDIP3OD/My-design-Portfolio?node-id=1-94&t=DdTFDB5v7LMPPjXS-1)! 🎨
+Explore my portfolio on [Figma](https://www.figma.com/design/mmfcZIoZ4VeUidOXDIP3OD/My-design-Portfolio?node-id=1-94&t=DdTFDB5v7LMPPjXS-1) and check out the highlights below:
+
+![Figma Icon](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
 
 ## 🛠️ Technologies & Tools
 
@@ -33,7 +32,6 @@ Here’s a sneak peek into my toolkit:
 - **React**: Building dynamic UIs like a boss!
 - **Next.js**: For server-side rendering that’s a breeze!
 - **Figma**: Designing with flair and creativity! 
-  ![Figma Icon](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
 - **Illustrator**: Crafting vector magic!
 - **C++**: The classic language with a modern twist!
 - **Java**: For when you need that robust touch!
@@ -43,8 +41,16 @@ Here’s a sneak peek into my toolkit:
 
 Let's stay connected and exchange ideas!
 
-- [![LinkedIn](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg)](https://www.linkedin.com/in/aliazam-kazmi/)
-- [![Instagram](https://user-images.githubusercontent.com/75165587/119674243-ad12f680-be59-11eb-9416-7b00e0b992df.png)](https://instagram.com/smaak.ux)
-- [![GitHub](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg)](https://github.com/aliazam1291)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aliazam-kazmi/">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn" width="32" height="32"/>
+  </a>
+  <a href="https://instagram.com/smaak.ux">
+    <img src="https://user-images.githubusercontent.com/75165587/119674243-ad12f680-be59-11eb-9416-7b00e0b992df.png" alt="Instagram" width="32" height="32"/>
+  </a>
+  <a href="https://github.com/aliazam1291">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub" width="32" height="32"/>
+  </a>
+</p>
 
 Feel free to explore and get in touch. Let’s create something amazing together! 🚀
