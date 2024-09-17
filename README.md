@@ -4,10 +4,13 @@
 
 I'm Ali Azam Kazmi, a front-end developer and UI/UX designer with a passion for crafting beautiful, intuitive digital experiences. Currently diving deep into React and Next.js. 🚀
 
-## 🔥 GitHub Streak
+## 📊 My GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aliazam1291&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aliazam1291&theme=ocean-gradient&background=202124&currStreakNum=FFA588&sideNums=FFA588&ring=FFA588&fire=FFA588&border=202124)](https://git.io/streak-stats)
 
+![Ali Azam's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliazam1291&show_icons=true&count_private=true&text_color=FFFFFF&hide_border=true&bg_color=202124&title_color=FFA588&icon_color=FFA588)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliazam1291&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=202124&title_color=FFA588&text_color=FFFFFF)
 
 ## 💼 Check Out My Design Work
 
@@ -19,38 +22,19 @@ Explore my portfolio on [Figma](https://www.figma.com/design/mmfcZIoZ4VeUidOXDIP
 
 Here’s a glimpse of my toolkit. These icons come with a side of humor because coding shouldn’t be too serious!
 
-**HTML5**: The backbone of every great web page!  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32"> HTML5
-
-**CSS3**: For styling that’s not just nice, but *spicy*!  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32"> CSS3
-
-**JavaScript**: Making the web interactive and fun!  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"> JavaScript
-
-**React**: Building dynamic UIs like a boss!  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="32" height="32"> React
-
-**Next.js**: For server-side rendering that’s a breeze!  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="32" height="32"> Next.js
-
-**Figma**: Designing with flair and creativity!  
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="32" height="32"> Figma
-
-**Illustrator**: Crafting vector magic!  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="32" height="32"> Illustrator
-
-**Canva**: For quick and creative designs!  
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/canva.svg" alt="Canva" width="32" height="32"> Canva
-
-**C++**: The classic language with a modern twist!  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"> C++
-
- **Java**: For when you need that robust touch!  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="32" height="32"> Java
-
- **Python**: The language that makes everything better!  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"> Python
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32"/> **HTML5**: The backbone of every great web page!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32"/> **CSS3**: For styling that’s not just nice, but *spicy*!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"/> **JavaScript**: Making the web interactive and fun!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="32" height="32"/> **React**: Building dynamic UIs like a boss!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="32" height="32"/> **Next.js**: For server-side rendering that’s a breeze!<br/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="32" height="32"/> **Figma**: Designing with flair and creativity!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="32" height="32"/> **Illustrator**: Crafting vector magic!<br/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/canva.svg" alt="Canva" width="32" height="32"/> **Canva**: For quick and creative designs!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/> **C++**: The classic language with a modern twist!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="32" height="32"/> **Java**: For when you need that robust touch!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/> **Python**: The language that makes everything better!<br/>
+</p>
 
 ## 🌐 Connect with Me
 
