@@ -30,37 +30,37 @@ Explore my portfolio on [Figma](https://www.figma.com/design/mmfcZIoZ4VeUidOXDIP
 
 Here’s a sneak peek into my toolkit:
 
-- **HTML5**: The backbone of every great web page!
+- **HTML5**: The backbone of every great web page!  
   ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
 
-- **CSS3**: For styling that’s not just nice, but *spicy*!
+- **CSS3**: For styling that’s not just nice, but *spicy*!  
   ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
 
-- **JavaScript**: Making the web interactive and fun!
+- **JavaScript**: Making the web interactive and fun!  
   ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 
-- **React**: Building dynamic UIs like a boss!
+- **React**: Building dynamic UIs like a boss!  
   ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
 
-- **Next.js**: For server-side rendering that’s a breeze!
+- **Next.js**: For server-side rendering that’s a breeze!  
   ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg)
 
-- **Figma**: Designing with flair and creativity! 
+- **Figma**: Designing with flair and creativity!  
   ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
 
-- **Illustrator**: Crafting vector magic!
+- **Illustrator**: Crafting vector magic!  
   ![Illustrator](https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg)
 
-- **Canva**: For quick and creative designs!
+- **Canva**: For quick and creative designs!  
   ![Canva](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/canva.svg)
 
-- **C++**: The classic language with a modern twist!
+- **C++**: The classic language with a modern twist!  
   ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
 
-- **Java**: For when you need that robust touch!
+- **Java**: For when you need that robust touch!  
   ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg)
 
-- **Python**: The language that makes everything better!
+- **Python**: The language that makes everything better!  
   ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg)
 
 ## 🌐 Connect with Me
