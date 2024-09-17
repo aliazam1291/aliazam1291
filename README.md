@@ -15,10 +15,6 @@ I'm a front-end developer and UI/UX designer with a flair for creating beautiful
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aliazam1291&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## 🐍 Watch My Contribution Graph Get Eaten by the Snake
-
-![snake gif](https://github.com/aliazam1291/aliazam1291/blob/output/github-contribution-grid-snake.svg)
-*If the snake doesn't show up, try [this link](https://raw.githubusercontent.com/aliazam1291/aliazam1291/main/github-contribution-grid-snake.svg) as an alternative.*
 
 ## 💼 Check Out My Design Work
 
@@ -31,37 +27,37 @@ Explore my portfolio on [Figma](https://www.figma.com/design/mmfcZIoZ4VeUidOXDIP
 Here’s a peek into my toolkit:
 
 - **HTML5**: The backbone of every great web page!  
-  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg =32x32)
 
 - **CSS3**: For styling that’s not just nice, but *spicy*!  
-  ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+  ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg =32x32)
 
 - **JavaScript**: Making the web interactive and fun!  
-  ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+  ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg =32x32)
 
 - **React**: Building dynamic UIs like a boss!  
-  ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+  ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg =32x32)
 
 - **Next.js**: For server-side rendering that’s a breeze!  
-  ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg)
+  ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg =32x32)
 
 - **Figma**: Designing with flair and creativity!  
-  ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
+  ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg =32x32)
 
 - **Illustrator**: Crafting vector magic!  
-  ![Illustrator](https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg)
+  ![Illustrator](https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg =32x32)
 
 - **Canva**: For quick and creative designs!  
-  ![Canva](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/canva.svg)
+  ![Canva](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/canva.svg =32x32)
 
 - **C++**: The classic language with a modern twist!  
-  ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+  ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg =32x32)
 
 - **Java**: For when you need that robust touch!  
-  ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+  ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg =32x32)
 
 - **Python**: The language that makes everything better!  
-  ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+  ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =32x32)
 
 ## 🌐 Connect with Me
 
