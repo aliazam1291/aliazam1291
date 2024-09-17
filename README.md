@@ -1,6 +1,6 @@
 # Hi, I'm Ali Azam Kazmi! 👋
 
-![Coding GIF](https://media.giphy.com/media/Vx8cldmB9JHQA/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/1B5oyHtVjtSAk5eRk1/giphy.gif)
 
 I'm a front-end developer and UI/UX designer with a flair for creating beautiful and intuitive digital experiences. Currently, I'm diving deep into React and Next.js. 🚀
 
@@ -28,22 +28,22 @@ Explore my portfolio on [Figma](https://www.figma.com/design/mmfcZIoZ4VeUidOXDIP
 
 ## 🛠️ Technologies & Tools
 
-Here’s a sneak peek into my toolkit:
+Here’s a peek into my toolkit:
 
 - **HTML5**: The backbone of every great web page!  
-  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
 
 - **CSS3**: For styling that’s not just nice, but *spicy*!  
-  ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+  ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
 
 - **JavaScript**: Making the web interactive and fun!  
   ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 
 - **React**: Building dynamic UIs like a boss!  
-  ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+  ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
 
 - **Next.js**: For server-side rendering that’s a breeze!  
-  ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg)
+  ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg)
 
 - **Figma**: Designing with flair and creativity!  
   ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
@@ -58,10 +58,10 @@ Here’s a sneak peek into my toolkit:
   ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
 
 - **Java**: For when you need that robust touch!  
-  ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg)
+  ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
 
 - **Python**: The language that makes everything better!  
-  ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg)
+  ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 ## 🌐 Connect with Me
 
