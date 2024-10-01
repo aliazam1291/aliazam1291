@@ -8,9 +8,9 @@ I'm **Ali Azam Kazmi**, a front-end developer and UI/UX designer with a passion 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aliazam1291&theme=blueberry&hide_border=true&background=00000000&currStreakNum=FFA588&sideNums=FFA588&ring=FFA588&fire=FFA588)](https://git.io/streak-stats)
 
-![Ali Azam's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliazam1291&show_icons=true&count_private=true&text_color=FFFFFF&hide_border=true&bg_color=202124&title_color=FFA588&icon_color=FFA588&hide_title=true&line_height=24)
+![Ali Azam's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliazam1291&show_icons=true&count_private=true&text_color=FFFFFF&hide_border=true&bg_color=333333&title_color=FFA500&icon_color=FFA500&hide_title=true&line_height=24)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliazam1291&layout=compact&hide_border=true&bg_color=202124&text_color=FFFFFF&title_color=FFA588&card_width=400)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliazam1291&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=202124&title_color=FFA588&text_color=FFFFFF)
 
