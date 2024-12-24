@@ -8,10 +8,7 @@ I'm **Ali Azam Kazmi**, a front-end developer and UI/UX designer with a passion 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aliazam1291&theme=blueberry&hide_border=true&background=333333&currStreakNum=FFA500&sideNums=FFA500&ring=FFA500&fire=FFA500)](https://git.io/streak-stats)
 
-
 ![Ali Azam's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliazam1291&show_icons=true&count_private=true&text_color=FFFFFF&hide_border=true&bg_color=333333&title_color=FFA500&icon_color=FFA500&hide_title=true&line_height=24)
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliazam1291&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=202124&title_color=FFA588&text_color=FFFFFF)
 
@@ -38,8 +35,6 @@ Here’s a glimpse of my toolkit. These icons come with a side of humor because 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="32" height="32"/> <b>Java:</b> For when you need that robust touch!<br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/> <b>Python:</b> The language that makes everything better!<br/>
 </p>
-
-
 
 ## 🌐 Connect with Me
 
