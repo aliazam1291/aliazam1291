@@ -2,9 +2,11 @@
 
 ![Coding GIF](https://media.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif?cid=790b76111eiez6s96yf7yd04h6lazwg2hno4jdzkscjei1h3&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-I'm **Ali Azam Kazmi**, a front-end developer and UI/UX designer with a passion for crafting beautiful, intuitive digital experiences. Currently diving deep into **React** and **Next.js**. 🚀
+I'm **Ali Azam Kazmi**, a front-end developer and UI/UX designer with a passion for crafting beautiful, intuitive digital experiences. Currently diving deep into **React**, **Next.js**, and **AI-driven web experiences**. 🚀
 
-## 📊 My GitHub Stats
+---
+
+## 📊 My GitHub Stats (2025 Edition)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aliazam1291&theme=blueberry&hide_border=true&background=333333&currStreakNum=FFA500&sideNums=FFA500&ring=FFA500&fire=FFA500)](https://git.io/streak-stats)
 
@@ -12,36 +14,42 @@ I'm **Ali Azam Kazmi**, a front-end developer and UI/UX designer with a passion 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliazam1291&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=202124&title_color=FFA588&text_color=FFFFFF)
 
+---
+
 ## 💼 Check Out My Design Work
 
-Explore my portfolio on [Figma](https://www.figma.com/design/mmfcZIoZ4VeUidOXDIP3OD/My-design-Portfolio?node-id=1-94&t=DdTFDB5v7LMPPjXS-1) to see some of my creative endeavors!
+Explore my latest projects and creative endeavors on [Figma](https://www.figma.com/design/mmfcZIoZ4VeUidOXDIP3OD/My-design-Portfolio?node-id=1-94&t=DdTFDB5v7LMPPjXS-1)!
 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="32" height="32">
 
+---
+
 ## 🛠️ Technologies & Tools
 
-Here’s a glimpse of my toolkit. These icons come with a side of humor because coding shouldn’t be too serious!
+Here’s a glimpse of my toolkit. Each comes with a sprinkle of personality because, hey, coding should be fun! 😎
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32"/> <b>HTML5:</b> The backbone of every great web page!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32"/> <b>CSS3:</b> For styling that’s not just nice, but <i>spicy</i>!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"/> <b>JavaScript:</b> Making the web interactive and fun!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="32" height="32"/> <b>React:</b> Building dynamic UIs like a boss!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="32" height="32"/> <b>Next.js:</b> For server-side rendering that’s a breeze!<br/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="32" height="32"/> <b>Figma:</b> Designing with flair and creativity!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="32" height="32"/> <b>Illustrator:</b> Crafting vector magic!<br/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/canva.svg" alt="Canva" width="32" height="32"/> <b>Canva:</b> For quick and creative designs!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/> <b>C++:</b> The classic language with a modern twist!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="32" height="32"/> <b>Java:</b> For when you need that robust touch!<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/> <b>Python:</b> The language that makes everything better!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32"/> <b>HTML5:</b> The web's foundation!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32"/> <b>CSS3:</b> Adding that sleek aesthetic.<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"/> <b>JavaScript:</b> Dynamic, interactive magic.<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="32" height="32"/> <b>React:</b> My playground for dynamic UIs.<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="32" height="32"/> <b>Next.js:</b> Powering the future of the web.<br/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="32" height="32"/> <b>Figma:</b> Crafting ideas into visuals.<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="32" height="32"/> <b>Illustrator:</b> Vector magic for all.<br/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/canva.svg" alt="Canva" width="32" height="32"/> <b>Canva:</b> Quick and creative outputs.<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/> <b>C++:</b> Old-school efficiency!<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="32" height="32"/> <b>Java:</b> Enterprise-level reliability.<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/> <b>Python:</b> Versatility redefined.<br/>
 </p>
+
+---
 
 ## 🌐 Connect with Me
 
-Let’s stay connected and exchange ideas! Whether it’s about tech, design, or just a good old chat, I’m here for it.
+Let’s stay connected! Whether you’re into tech, design, or just want to say hi, I’d love to chat. 💬
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aliazam-kazmi/">
+  <a href="https://www.linkedin.com/in/ali-azam-kazmi/">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn" width="32" height="32"/>
   </a>
   <a href="https://instagram.com/smaak.ux">
@@ -52,4 +60,6 @@ Let’s stay connected and exchange ideas! Whether it’s about tech, design, or
   </a>
 </p>
 
-Feel free to explore and get in touch. Let’s create something amazing together! 🚀
+---
+
+Let’s create something amazing together in 2025 and beyond! 🚀
