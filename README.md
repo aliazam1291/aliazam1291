@@ -6,11 +6,14 @@ I'm **Ali Azam Kazmi**, a front-end developer and UI/UX designer with a passion 
 
 ---
 
-## 📊 My GitHub Stats
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aliazam1291&theme=ocean-gradient&background=202124&currStreakNum=FFA588&sideNums=FFA588&ring=FFA588&fire=FFA588&border=202124)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LordHarsh&show_icons=true&theme=gotham)](https://github.com/aliazam1291)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordHarsh&layout=compact&theme=gotham)](https://github.com/aliazam1291)
 
-![Vashist's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliazam1291&show_icons=true&count_private=true&text_color=FFFFFF&hide_border=true&bg_color=202124&title_color=FFA588&icon_color=FFA588)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LordHarsh&theme=gotham)](https://github.com/aliazam1291)
+
+</div>
 
 
 
