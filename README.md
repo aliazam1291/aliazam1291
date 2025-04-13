@@ -8,10 +8,10 @@ I'm **Ali Azam Kazmi**, a front-end developer and UI/UX designer with a passion 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LordHarsh&show_icons=true&theme=gotham)](https://github.com/aliazam1291)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordHarsh&layout=compact&theme=gotham)](https://github.com/aliazam1291)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliazam1291&show_icons=true&theme=gotham)](https://github.com/aliazam1291)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliazam1291&layout=compact&theme=gotham)](https://github.com/aliazam1291)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LordHarsh&theme=gotham)](https://github.com/aliazam1291)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliazam1291&theme=gotham)](https://github.com/aliazam1291)
 
 </div>
 
