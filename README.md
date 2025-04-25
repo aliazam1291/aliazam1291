@@ -2,7 +2,7 @@
 
 ![Coding GIF](https://media.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif?cid=790b76111eiez6s96yf7yd04h6lazwg2hno4jdzkscjei1h3&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-I'm **Ali Azam Kazmi**, a front-end developer and UI/UX designer with a passion for crafting beautiful, intuitive digital experiences. Currently diving deep into **React**, **Next.js**, and **AI-driven web experiences**. 🚀
+I'm **Ali Azam Kazmi**, a Mern Stack and UI/UX designer with a passion for crafting beautiful, intuitive digital experiences. Currently diving deep into **React**, **Next.js**, and **AI-driven web experiences**. 🚀
 
 ---
 
