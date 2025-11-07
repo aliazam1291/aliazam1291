@@ -1,86 +1,121 @@
-# Welcome to My GitHub Profile! 👋
+<!-- Hero -->
+<h1 align="center">Ali Azam Kazmi</h1>
+<p align="center">MERN Engineer • UI/UX Designer • Product Enthusiast</p>
+<p align="center">Building delightful, performant web experiences with React, Next.js and AI-driven UX.</p>
 
-![Coding GIF](https://media.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif?cid=790b76111eiez6s96yf7yd04h6lazwg2hno4jdzkscjei1h3&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-Hi there! I'm **Ali Azam Kazmi**, a passionate **MERN Stack Developer**, **UI/UX Designer**, and **Product Enthusiast** dedicated to crafting beautiful, intuitive, and user-centric digital experiences. Currently deep-diving into **React**, **Next.js**, and **AI-driven web apps** to push the boundaries of modern web development. 🚀
-
----
-## 🌟 GitHub Stats & Contributions
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-
-  <div>
-    <h4 align="center">GitHub Stats</h4>
-    <img src="https://github-readme-stats.vercel.app/api?username=aliazam1291&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" alt="GitHub stats" width="350" />
-  </div>
-
-  <div>
-    <h4 align="center">Top Languages</h4>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazam1291&layout=compact&theme=gotham" alt="Top languages" width="280" />
-  </div>
-
-  <div>
-    <h4 align="center">GitHub Streak</h4>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliazam1291&theme=gotham" alt="GitHub streak" width="350" />
-  </div>
-
-</div>
-
-
----
-
-## 🎨 UI/UX & Product Design
-
-As a multidisciplinary designer and developer, I also love shaping ideas visually and functionally for delightful user experiences:
-
-- **Figma**: [My Portfolio](https://www.figma.com/design/mmfcZIoZ4VeUidOXDIP3OD/My-design-Portfolio?node-id=1-94&t=DdTFDB5v7LMPPjXS-1)  
-- **Adobe Illustrator** & **Canva** for vector graphics and quick concepts  
-- Passion for **product thinking** and bringing designs to life with clean, reusable React code  
-- Advocate for pixel-perfect, accessible, and mobile-first design principles
-
----
-
-## 🛠️ My Tech Stack
-
+<!-- Primary actions -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/canva.svg" alt="Canva" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <a href="https://www.linkedin.com/in/ali-azam-kazmi/" title="Connect on LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE" title="Email">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-25D366?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/aliazam1291" title="Follow on GitHub">
+    <img alt="Followers" src="https://img.shields.io/github/followers/aliazam1291?style=for-the-badge&color=2ea043&label=Follow" />
+  </a>
+</p>
+
+<!-- Visual intro -->
+<p align="center">
+  <img src="https://media.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif" height="140" alt="Coding animation" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+### About
+- Product-minded developer blending UX research, component systems, and clean code to ship lovable experiences.  
+- Exploring RSC, Server Actions, Edge AI patterns, and design tokens for consistent theming.  
+- Open to collabs on DX tools, design systems, and AI copilots for UI workflows.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ali-azam-kazmi/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
-  <a href="https://instagram.com/smaak.ux" target="_blank" rel="noopener noreferrer" title="Instagram">
-    <img src="https://user-images.githubusercontent.com/75165587/119674243-ad12f680-be59-11eb-9416-7b00e0b992df.png" alt="Instagram" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
-  <a href="https://github.com/aliazam1291" target="_blank" rel="noopener noreferrer" title="GitHub">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub" width="40" height="40"/>
+---
+
+### Featured builds
+<p>
+  <a href="https://github.com/aliazam1291/TODO-saas-starter" title="Next.js SaaS starter • Auth, Stripe, dashboards">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliazam1291&repo=TODO-saas-starter&theme=gotham" alt="SaaS Starter" />
+  </a>
+  <a href="https://github.com/aliazam1291/TODO-ai-ux-copilot" title="AI UX Copilot • heuristics & token hints">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliazam1291&repo=TODO-ai-ux-copilot&theme=gotham" alt="AI UX Copilot" />
   </a>
 </p>
 
 ---
 
-## 🚀 Let’s Build Amazing Things Together!
+### Tools I use
+<p>
+  <a href="https://react.dev" title="React • Hooks, RSC-ready patterns">
+    <img src="https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white" alt="React" />
+  </a>
+  <a href="https://nextjs.org" title="Next.js • RSC, Server Actions, App Router">
+    <img src="https://img.shields.io/badge/Next.js-111111?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  </a>
+  <a href="https://www.typescriptlang.org" title="TypeScript • strict, generics, utility types">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://nodejs.org" title="Node.js • APIs, workers, queues">
+    <img src="https://img.shields.io/badge/Node.js-3C873A?logo=nodedotjs&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://tailwindcss.com" title="Tailwind CSS • token-driven styling">
+    <img src="https://img.shields.io/badge/Tailwind-0EA5E9?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  </a>
+  <a href="https://figma.com" title="Figma • design systems & tokens">
+    <img src="https://img.shields.io/badge/Figma-1ABCFE?logo=figma&logoColor=white" alt="Figma" />
+  </a>
+  <a href="https://jestjs.io" title="Jest • unit tests">
+    <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" alt="Jest" />
+  </a>
+  <a href="https://playwright.dev" title="Playwright • e2e + visual regressions">
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" alt="Playwright" />
+  </a>
+</p>
 
-Whether it’s visually stunning UI, powerful React applications, or intelligent AI integrations — I’m all about pushing boundaries and learning every step of the way.
-
-Feel free to reach out for collaboration, chatting about new tech, or bouncing ideas. Let’s make 2025 a stellar year for innovation! 🌟
+<details>
+  <summary>More tools</summary>
+  <p>
+    <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white" alt="Copilot" title="Copilot • pair programmer" />
+    <img src="https://img.shields.io/badge/WakaTime-000000?logo=WakaTime&logoColor=white" alt="WakaTime" title="WakaTime • coding time analytics" />
+  </p>
+</details>
 
 ---
 
-*Thanks for visiting my profile. Happy coding!*
+### Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aliazam1291&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=aliazam1291&theme=gotham" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazam1291&layout=compact&theme=gotham&langs_count=8" alt="Top languages" />
+</p>
 
+---
+
+### Contributions arcade
+<!-- generated via workflow; dark mode variant below -->
+<img alt="snake light" src="https://github.com/aliazam1291/aliazam1291/blob/output/github-contribution-grid-snake.svg" />
+<img alt="snake dark" src="https://github.com/aliazam1291/aliazam1291/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+
+---
+
+### Recent activity
+<!-- Auto-updated via GH Actions -->
+<!-- Do not edit below this line -->
+<!--START_SECTION:activity-->
+⏳ Loading latest highlights...
+<!--END_SECTION:activity-->
+
+---
+
+### Design portfolio
+- Figma: https://www.figma.com/design/mmfcZIoZ4VeUidOXDIP3OD/My-design-Portfolio?node-id=1-94  
+- Approach: atomic design + tokens • Accessibility: WCAG AA
+
+---
+
+### Connect
+<p>
+  <a href="https://www.linkedin.com/in/ali-azam-kazmi/">LinkedIn</a> • 
+  <a href="https://instagram.com/smaak.ux">Instagram</a> • 
+  <a href="https://github.com/aliazam1291">GitHub</a>
+</p>
