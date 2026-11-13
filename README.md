@@ -58,13 +58,6 @@ I'm a **product-minded engineer**: I write the PRD, design the UX in Figma, buil
 
 ## 🚀 Featured open-source projects
 
-<p align="center">
-  <a href="https://github.com/aliazam1291/sapceos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aliazam1291&repo=sapceos&theme=github_dark&hide_border=true&title_color=70C1FF&icon_color=70C1FF" alt="SPACE OS — 3D portfolio website built with Next.js and Three.js" width="49%" /></a>
-  <a href="https://github.com/aliazam1291/D3-Advance-Visuals"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aliazam1291&repo=D3-Advance-Visuals&theme=github_dark&hide_border=true&title_color=70C1FF&icon_color=70C1FF" alt="D3 Advanced Visuals — D3.js and Next.js analytics dashboard engine" width="49%" /></a>
-  <a href="https://github.com/aliazam1291/sundar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aliazam1291&repo=sundar&theme=github_dark&hide_border=true&title_color=70C1FF&icon_color=70C1FF" alt="Sunder Masala — Next.js 16 brand website and product catalogue" width="49%" /></a>
-  <a href="https://github.com/aliazam1291/casa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aliazam1291&repo=casa&theme=github_dark&hide_border=true&title_color=70C1FF&icon_color=70C1FF" alt="Wolf Casa — 3D interiors brand website with React Three Fiber" width="49%" /></a>
-</p>
-
 | Project | Description | Stack |
 |---|---|---|
 | 🌌 **[SPACE OS](https://github.com/aliazam1291/sapceos)** · [live](https://aliazamkazmi.vercel.app/) | My portfolio, built as a 3D flight through a galaxy: projects are missions, case studies are drones. Before each release, Playwright harnesses check SEO, Lighthouse and mobile | Next.js 16, React 19, Three.js, R3F, GSAP, Lenis, Supabase |
@@ -116,10 +109,6 @@ I'm a **product-minded engineer**: I write the PRD, design the UX in Figma, buil
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliazam1291&show_icons=true&theme=github_dark&hide_border=true&title_color=70C1FF&icon_color=70C1FF&count_private=true" alt="Ali Azam Kazmi GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazam1291&layout=compact&theme=github_dark&hide_border=true&title_color=70C1FF" alt="Ali Azam Kazmi most used languages" height="165" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=aliazam1291&theme=github-dark-blue&hide_border=true" alt="Ali Azam Kazmi GitHub contribution streak" />
 </p>
