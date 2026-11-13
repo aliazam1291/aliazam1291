@@ -251,8 +251,8 @@ def divider():
 </svg>'''
 
 
-write("header.svg", header())
-write("fleet.svg", fleet())
-write("divider.svg", divider())
+# header/fleet/divider retired; only the project cards are still used
+
+
 for c in CARDS:
     write(f"card-{c[0].lower()}.svg", card(*c))

@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="section divider">
-<defs><linearGradient id="d" x1="0" x2="1"><stop offset="0" stop-color="#70C1FF" stop-opacity="0"/><stop offset="0.5" stop-color="#70C1FF"/><stop offset="1" stop-color="#9B7BFF" stop-opacity="0"/></linearGradient>
-<filter id="g"><feGaussianBlur stdDeviation="2"/></filter></defs>
-<line x1="0" x2="1200" y1="12" y2="12" stroke="#1d2b4a"/>
-<rect y="10" width="260" height="4" rx="2" fill="url(#d)" filter="url(#g)"><animate attributeName="x" values="-260;1200" dur="4s" repeatCount="indefinite"/></rect>
-<rect y="11" width="260" height="2" rx="1" fill="url(#d)"><animate attributeName="x" values="-260;1200" dur="4s" repeatCount="indefinite"/></rect>
-</svg>
