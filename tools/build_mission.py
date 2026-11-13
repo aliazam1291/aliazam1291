@@ -75,6 +75,18 @@ def hero():
       <path d="M{cx-12} {cy-100} L{cx} {cy-62} L{cx+12} {cy-100} Z" fill="{AMBER}"><animate attributeName="opacity" values="0.4;1;0.4" dur="0.35s" repeatCount="indefinite"/></path>
     </g></g>
     <ellipse cx="{cx}" cy="{cy}" rx="70" ry="16" fill="{TEAL}" fill-opacity="0.18"><animate attributeName="rx" values="60;84;60" dur="4s" repeatCount="indefinite"/></ellipse>'''
+    vy, fy = 300, H - 22
+    floor = "".join(f'<line x1="{cx+(x-cx)*0.05:.0f}" y1="{vy}" x2="{x}" y2="{fy}" stroke="{TEAL}" stroke-opacity=".12"/>' for x in range(-600, 2400, 90))
+    floor += "".join(f'<line x1="640" x2="{W-22}" y1="{vy}" y2="{vy}" stroke="{TEAL}" stroke-opacity=".0"><animate attributeName="y1" values="{vy};{fy}" dur="5s" begin="{-i*0.83:.2f}s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".6 0 1 1"/><animate attributeName="y2" values="{vy};{fy}" dur="5s" begin="{-i*0.83:.2f}s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".6 0 1 1"/><animate attributeName="stroke-opacity" values="0;.35" dur="5s" begin="{-i*0.83:.2f}s" repeatCount="indefinite"/></line>' for i in range(6))
+    floor = f'<g clip-path="url(#fl)">{floor}</g>'
+    # HUD telemetry readouts that tick
+    hud = ""
+    for j, (lab, vals) in enumerate([("ALT", ["0.0", "1.2", "2.9", "4.4", "6.1"]), ("VEL", ["000", "120", "260", "410", "580"]), ("SYS", ["NOMINAL"] * 5)]):
+        y = 140 + j * 34
+        hud += f'<text x="1140" y="{y}" text-anchor="end" font-family="{MONO}" font-size="10" letter-spacing="2" fill="{DIM}">{lab}</text>'
+        for k, v in enumerate(vals):
+            hud += (f'<text x="1140" y="{y+16}" text-anchor="end" font-family="{MONO}" font-size="14" fill="#d9fff3" opacity="0">{v}'
+                    f'<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;{k/5:.2f};{k/5+.01:.2f};{(k+1)/5-.01:.2f};{(k+1)/5:.2f};1" dur="4s" repeatCount="indefinite"/></text>')
     stats = [("31", "PROJECTS"), ("14", "PRODUCTS BUILT"), ("16", "DESIGN PROJECTS"), ("200,000+", "USERS · LARGEST PLATFORM")]
     st = ""
     x = 60
@@ -100,12 +112,12 @@ def hero():
 <radialGradient id="sw" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="scale(250)"><stop offset="0" stop-color="{TEAL}" stop-opacity=".0"/><stop offset="1" stop-color="{TEAL}" stop-opacity=".35"/></radialGradient>
 <linearGradient id="nm" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset=".5" stop-color="#d9fff3"/><stop offset=".62" stop-color="{TEAL}"/><stop offset=".74" stop-color="#fff"/><stop offset="1" stop-color="#fff"/>
 <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="5s" repeatCount="indefinite"/></linearGradient>
-<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="{LINE}" stroke-opacity=".55"/></pattern>
+<clipPath id="fl"><rect x="730" y="300" width="450" height="200"/></clipPath><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="{LINE}" stroke-opacity=".55"/></pattern>
 </defs>
 <rect width="{W}" height="{H}" fill="url(#bg)"/>
 <rect width="{W}" height="{H}" fill="url(#grid)" opacity=".5"/>
 {dust(W, H, 70)}
-{rings}{ticks}{sweep}{blips}{craft}
+{floor}{rings}{ticks}{sweep}{blips}{craft}
 <rect x="20" y="20" width="{W-40}" height="{H-40}" fill="none" stroke="{LINE}"/>
 {corners(20, 20, W-40, H-40)}
 <circle cx="52" cy="58" r="5" fill="{TEAL}">{blink()}</circle>
@@ -113,6 +125,7 @@ def hero():
 <text x="1140" y="44" text-anchor="end" font-family="{MONO}" font-size="11" letter-spacing="3" fill="{DIM}">SPACE OS · NEW DELHI 28.61°N 77.21°E</text>
 {cd}
 <line x1="1020" y1="90" x2="1140" y2="90" stroke="{TEAL}" stroke-width="2"/>
+{hud}
 <text x="60" y="150" font-family="{MONO}" font-size="13" letter-spacing="3" fill="{TEAL}">● PORTFOLIO · PRODUCT ENGINEER → TECHNICAL PM</text>
 <text x="56" y="222" font-family="{SANS}" font-size="70" font-weight="800" letter-spacing="-1.5" fill="url(#nm)">Ali Azam Kazmi</text>
 <text x="60" y="268" font-family="{SANS}" font-size="20" fill="#cfe9e1">Give me a problem. I’ll figure out what to do next.</text>
@@ -235,7 +248,7 @@ def orbit():
 <rect width="{W}" height="{H}" rx="16" fill="{BG0}"/>
 {dust(W, H, 60)}
 {corners(14, 14, W-28, H-28, op=.6)}
-<text x="40" y="48" font-family="{MONO}" font-size="12" letter-spacing="3" fill="{DIM}">03 / RESULTS</text>
+<text x="40" y="48" font-family="{MONO}" font-size="12" letter-spacing="3" fill="{DIM}">RESULTS · IN ORBIT</text>
 <text x="40" y="82" font-family="{SANS}" font-size="28" font-weight="800" fill="#fff">Every result has mass.</text>
 <text x="40" y="106" font-family="{SANS}" font-size="14" fill="{DIM}">What was measured, in orbit. Everything else curves toward it.</text>
 <circle cx="{cx}" cy="{cy}" r="46" fill="url(#core)" filter="url(#g2)"><animate attributeName="r" values="40;50;40" dur="3s" repeatCount="indefinite"/></circle>
@@ -276,13 +289,151 @@ def label(text, w=1200):
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="46" viewBox="0 0 {w} 46" role="img" aria-label="{esc(text)}">
 <line x1="0" y1="23" x2="{w}" y2="23" stroke="{LINE}"/>
 <rect y="21" width="160" height="4" rx="2" fill="{TEAL}" opacity=".9"><animate attributeName="x" values="-160;{w}" dur="5s" repeatCount="indefinite"/></rect>
-<rect x="0" y="8" width="{len(text)*9.2+40:.0f}" height="30" fill="{BG0}"/>
+<rect x="0" y="8" width="{len(text)*11+44:.0f}" height="30" fill="{BG0}"/>
 <circle cx="10" cy="23" r="4" fill="{TEAL}">{blink()}</circle>
 <text x="24" y="28" font-family="{MONO}" font-size="13" letter-spacing="3" fill="{TEAL}">{esc(text)}</text>
 </svg>'''
 
 
+# ============================================================ terminal (whoami)
+def terminal():
+    W, H = 1200, 330
+    lines = [
+        ("$", "whoami", TEAL),
+        (">", "Ali Azam Kazmi · product engineer → technical PM · New Delhi", "#d9fff3"),
+        ("$", "cat philosophy.txt", TEAL),
+        (">", "Ship the decision, not just the feature. Find the human hiding in the process.", "#d9fff3"),
+        ("$", "ls ~/currently", TEAL),
+        (">", "mapmyindia/  dumbmoney/  watchsense/  smaak.ux/  space-os/", AMBER),
+        ("$", "./launch --next-problem", TEAL),
+        (">", "▲ cleared for launch. open to PM / TPM roles.", PINK),
+    ]
+    T = 14.0
+    body, defs = "", ""
+    t = 0.4
+    for i, (pr, txt, c) in enumerate(lines):
+        y = 92 + i * 28
+        wtxt = 24 + len(txt) * 8.45
+        typing = pr == "$"
+        d = max(0.5, len(txt) * 0.06) if typing else 0.15
+        a, b = t / T, (t + d) / T
+        defs += (f'<clipPath id="c{i}"><rect x="40" y="{y-18}" height="26" width="0">'
+                 f'<animate attributeName="width" values="0;0;{wtxt:.0f};{wtxt:.0f};0" keyTimes="0;{a:.3f};{b:.3f};0.97;1" dur="{T}s" repeatCount="indefinite"/></rect></clipPath>')
+        col = TEAL if typing else DIM
+        body += (f'<g clip-path="url(#c{i})"><text x="44" y="{y}" font-family="{MONO}" font-size="14" fill="{col}">{pr}</text>'
+                 f'<text x="66" y="{y}" font-family="{MONO}" font-size="14" fill="{c}">{esc(txt)}</text></g>')
+        t += d + (0.5 if typing else 0.9)
+    cur_y = 92 + len(lines) * 28
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Terminal: whoami — Ali Azam Kazmi, product engineer moving into technical PM. Philosophy: ship the decision, not just the feature. Currently: MapmyIndia, DumbMoney, WatchSense, Smaak.ux, Space OS. Open to PM and TPM roles.">
+<title>ali@space-os: whoami</title>
+<defs>{defs}<linearGradient id="tb" x1="0" x2="1"><stop offset="0" stop-color="#0c1d19"/><stop offset="1" stop-color="#08120f"/></linearGradient></defs>
+<rect width="{W}" height="{H}" rx="16" fill="{BG0}" stroke="{LINE}"/>
+<rect width="{W}" height="44" rx="16" fill="url(#tb)"/><rect y="28" width="{W}" height="16" fill="#08120f"/>
+<circle cx="30" cy="22" r="6" fill="#FF5F57"/><circle cx="50" cy="22" r="6" fill="#FEBC2E"/><circle cx="70" cy="22" r="6" fill="#28C840"/>
+<text x="{W/2:.0f}" y="27" text-anchor="middle" font-family="{MONO}" font-size="12" letter-spacing="2" fill="{DIM}">ali@space-os: ~</text>
+{body}
+<rect x="44" y="{cur_y-14}" width="9" height="17" fill="{TEAL}">{blink(1)}</rect>
+</svg>"""
+
+
+# ============================================================ isometric skills city
+def skills():
+    W, H = 1200, 400
+    data = [("TypeScript", 10, TEAL), ("UI/UX", 7, PINK), ("React", 7, CYAN), ("Mappls SDK", 4, AMBER), ("PRDs", 3, VIOLET)]
+    ox, oy, cw = 790, 330, 64
+    c30, s30 = math.cos(math.radians(30)), 0.5
+
+    def P(x, y, z):
+        return (ox + (x - y) * c30, oy + (x + y) * s30 - z)
+
+    def pts(*ps):
+        return " ".join(f"{a:.1f},{b:.1f}" for a, b in ps)
+
+    floor = ""
+    for i in range(-3, 4):
+        a, b = P(i * cw - cw / 2, -3.5 * cw, 0), P(i * cw - cw / 2, 3.5 * cw, 0)
+        floor += f'<line x1="{a[0]:.0f}" y1="{a[1]:.0f}" x2="{b[0]:.0f}" y2="{b[1]:.0f}" stroke="{LINE}"/>'
+        a, b = P(-3.5 * cw, i * cw - cw / 2, 0), P(3.5 * cw, i * cw - cw / 2, 0)
+        floor += f'<line x1="{a[0]:.0f}" y1="{a[1]:.0f}" x2="{b[0]:.0f}" y2="{b[1]:.0f}" stroke="{LINE}"/>'
+    blds, labels = "", ""
+    pos = [(-2, -1), (-1, 0), (0, 1), (1, 2), (2, 3)]
+    pos = [(-2.4, 0.6), (-1.2, 0.6), (0, 0.6), (1.2, 0.6), (2.4, 0.6)]
+    for i, (name, n, c) in enumerate(data):
+        gx, gy = pos[i][0] * cw * 1.05, -pos[i][0] * cw * 0.0 + (i - 2) * cw * 1.05
+        gx, gy = (i - 2) * cw * 1.45, -(i - 2) * cw * 1.15
+        h = 17 * n
+        w = cw * 0.38
+        x0, x1, y0, y1 = gx - w, gx + w, gy - w, gy + w
+
+        def faces(hh):
+            top = pts(P(x0, y0, hh), P(x1, y0, hh), P(x1, y1, hh), P(x0, y1, hh))
+            left = pts(P(x0, y1, 0), P(x1, y1, 0), P(x1, y1, hh), P(x0, y1, hh))
+            right = pts(P(x1, y0, 0), P(x1, y1, 0), P(x1, y1, hh), P(x1, y0, hh))
+            return top, left, right
+        t0, l0, r0 = faces(2)
+        t1, l1, r1 = faces(h)
+        dur, beg = 12, i * 0.3
+        kt = "0;0.12;0.94;1"
+        def anim(a, b):
+            return f'<animate attributeName="points" values="{a};{b};{b};{a}" keyTimes="{kt}" dur="{dur}s" begin="{beg}s" repeatCount="indefinite" calcMode="spline" keySplines=".2 .8 .2 1;0 0 1 1;.6 0 .8 .2"/>'
+        lx, ly = P(gx, gy, h + 26)
+        blds += (f'<polygon points="{l1}" fill="{c}" fill-opacity=".55">{anim(l0, l1)}</polygon>'
+                 f'<polygon points="{r1}" fill="{c}" fill-opacity=".28">{anim(r0, r1)}</polygon>'
+                 f'<polygon points="{t1}" fill="{c}" stroke="#ffffff" stroke-opacity=".35">{anim(t0, t1)}</polygon>')
+        labels += (f'<g><animateTransform attributeName="transform" type="translate" values="0 {h-2};0 0;0 0;0 {h-2}" keyTimes="{kt}" dur="{dur}s" begin="{beg}s" repeatCount="indefinite" calcMode="spline" keySplines=".2 .8 .2 1;0 0 1 1;.6 0 .8 .2"/>'
+                 f'<text x="{lx:.0f}" y="{ly-16:.0f}" text-anchor="middle" font-family="{SANS}" font-size="16" font-weight="800" fill="#fff">{n}</text>'
+                 f'<text x="{lx:.0f}" y="{ly:.0f}" text-anchor="middle" font-family="{MONO}" font-size="11" letter-spacing="1" fill="{c}">{esc(name.upper())}</text></g>')
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Skills installed, as a 3D isometric city sized by number of projects: TypeScript 10, UI/UX 7, React 7, Mappls SDK 4, PRDs 3">
+<title>Skills installed</title>
+<rect width="{W}" height="{H}" rx="16" fill="{BG0}"/>
+{dust(W, H, 40)}
+{corners(14, 14, W-28, H-28, op=.6)}
+<text x="40" y="48" font-family="{MONO}" font-size="12" letter-spacing="3" fill="{DIM}">SKILLS INSTALLED · 5/5</text>
+<text x="40" y="80" font-family="{SANS}" font-size="26" font-weight="800" fill="#fff">Built from what I actually ship.</text>
+<text x="40" y="104" font-family="{SANS}" font-size="14" fill="{DIM}">Building height = number of projects that used it.</text>
+{floor}{blds}{labels}
+</svg>"""
+
+
+# ============================================================ mission-style code cards
+CODE = [
+    ("sapceos", "BLD-01", "SPACE OS", "3D portfolio: a Three.js flight through my work", ["Next.js 16", "R3F", "GSAP"], TEAL),
+    ("D3-Advance-Visuals", "BLD-02", "D3 Advanced Visuals", "D3 + Next.js engine for ops dashboards", ["D3.js", "TypeScript", "Zustand"], CYAN),
+    ("sundar", "BLD-03", "Sunder Masala", "Heritage spice rebrand: 32 SKUs, SSG pages", ["Next.js 16", "Tailwind v4"], AMBER),
+    ("casa", "BLD-04", "Wolf Casa", "Interiors showroom with 3D curated rooms", ["R3F", "Rapier", "GSAP"], TEAL),
+    ("react-tech-loaders", "BLD-05", "React Tech Loaders", "Hacker-terminal, pixel & neon loaders", ["React", "TypeScript"], PINK),
+    ("Honeypot-ssh", "BLD-06", "SSH Honeypot", "Fake shell that logs attacker commands", ["Python", "Paramiko", "Docker"], VIOLET),
+]
+
+
+def code_card(repo, code, title, desc, tags, c):
+    W, H = 580, 170
+    chips, x = "", 32
+    for t in tags:
+        w = 16 + len(t) * 7.4
+        chips += (f'<rect x="{x}" y="118" width="{w:.0f}" height="24" rx="4" fill="{c}" fill-opacity=".08" stroke="{c}" stroke-opacity=".45"/>'
+                  f'<text x="{x + w/2:.0f}" y="134" text-anchor="middle" font-family="{MONO}" font-size="11.5" fill="{c}">{esc(t)}</text>')
+        x += w + 8
+    bars = "".join(f'<rect x="{W-150+k*14}" y="40" width="8" height="40" fill="{c}" opacity=".15"><animate attributeName="opacity" values=".15;.9;.15" dur="1.6s" begin="{k*0.15:.2f}s" repeatCount="indefinite"/></rect>' for k in range(8))
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="{esc(title)} — {esc(desc)}">
+<title>{esc(title)}</title>
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{c}"/><stop offset=".5" stop-color="{c}" stop-opacity=".05"/><stop offset="1" stop-color="{c}"/>
+<animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="6s" repeatCount="indefinite"/></linearGradient></defs>
+<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="12" fill="#07110f" stroke="url(#b)" stroke-width="2"/>
+{corners(10, 10, W-20, H-20, c=c, L=12, op=.5)}
+<text x="32" y="44" font-family="{MONO}" font-size="11.5" letter-spacing="2.5" fill="{c}">{code} · {esc(repo)}</text>
+<text x="32" y="78" font-family="{SANS}" font-size="24" font-weight="800" fill="#fff">{esc(title)}</text>
+<text x="32" y="102" font-family="{SANS}" font-size="14" fill="#a9c9bf">{esc(desc)}</text>
+{chips}
+<text x="{W-28}" y="{H-26}" text-anchor="end" font-family="{MONO}" font-size="12" letter-spacing="2" fill="{c}">OPEN ↗<animate attributeName="opacity" values=".4;1;.4" dur="1.8s" repeatCount="indefinite"/></text>
+</svg>"""
+
+
 write("mc-hero.svg", hero())
+write("mc-terminal.svg", terminal())
+write("mc-skills.svg", skills())
+for r in CODE:
+    write(f"mc-code-{r[0].lower()}.svg", code_card(*r))
 write("mc-systems.svg", systems())
 write("mc-orbit.svg", orbit())
 write("mc-loop.svg", loop())

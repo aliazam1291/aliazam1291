@@ -13,6 +13,8 @@
   <sub>Fleet, telematics &amp; geospatial products at <b>MapmyIndia (Mappls)</b> · Founder &amp; CPO, <b>DumbMoney</b> · <b>Smaak.ux</b> design studio · New Delhi, India</sub>
 </p>
 
+<img src="assets/mc-terminal.svg" width="100%" alt="Terminal session: whoami — Ali Azam Kazmi, product engineer moving into technical PM, New Delhi. Philosophy: ship the decision, not just the feature. Currently at MapmyIndia, DumbMoney, WatchSense, Smaak.ux and Space OS. Open to PM and TPM roles." />
+
 <img src="assets/mc-label-connect.svg" width="100%" alt="00 / Open channel" />
 
 <table>
@@ -66,6 +68,8 @@
 <img src="assets/mc-label-loop.svg" width="100%" alt="03 / How I work" />
 
 <img src="assets/mc-loop.svg" width="100%" alt="The loop I run on every product: problem, understand, strategy, UX, tech, build, ship, learn, then the next problem" />
+
+<img src="assets/mc-skills.svg" width="100%" alt="Skills installed, as a 3D isometric city: TypeScript in 10 projects, UI/UX 7, React 7, Mappls SDK 4, PRDs 3" />
 
 <table>
 <tr>
@@ -124,16 +128,16 @@ Brand, web and product design for 10+ clients: Sunder Masala, Wolf Casa, Lean Mu
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/aliazam1291/sapceos"><img src="assets/card-sapceos.svg" width="100%" alt="SPACE OS — 3D portfolio built with Next.js and Three.js" /></a></td>
-<td width="50%"><a href="https://github.com/aliazam1291/D3-Advance-Visuals"><img src="assets/card-d3-advance-visuals.svg" width="100%" alt="D3 Advanced Visuals — D3.js and Next.js analytics dashboards" /></a></td>
+<td width="50%"><a href="https://github.com/aliazam1291/sapceos"><img src="assets/mc-code-sapceos.svg" width="100%" alt="SPACE OS — 3D portfolio built with Next.js and Three.js" /></a></td>
+<td width="50%"><a href="https://github.com/aliazam1291/D3-Advance-Visuals"><img src="assets/mc-code-d3-advance-visuals.svg" width="100%" alt="D3 Advanced Visuals — D3.js and Next.js analytics dashboards" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/aliazam1291/sundar"><img src="assets/card-sundar.svg" width="100%" alt="Sunder Masala — Next.js 16 brand website" /></a></td>
-<td width="50%"><a href="https://github.com/aliazam1291/casa"><img src="assets/card-casa.svg" width="100%" alt="Wolf Casa — 3D interiors website with React Three Fiber" /></a></td>
+<td width="50%"><a href="https://github.com/aliazam1291/sundar"><img src="assets/mc-code-sundar.svg" width="100%" alt="Sunder Masala — Next.js 16 brand website" /></a></td>
+<td width="50%"><a href="https://github.com/aliazam1291/casa"><img src="assets/mc-code-casa.svg" width="100%" alt="Wolf Casa — 3D interiors website with React Three Fiber" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/aliazam1291/react-tech-loaders"><img src="assets/card-react-tech-loaders.svg" width="100%" alt="React Tech Loaders — animated React loading screens" /></a></td>
-<td width="50%"><a href="https://github.com/aliazam1291/Honeypot-ssh"><img src="assets/card-honeypot-ssh.svg" width="100%" alt="SSH Honeypot — Python and Docker" /></a></td>
+<td width="50%"><a href="https://github.com/aliazam1291/react-tech-loaders"><img src="assets/mc-code-react-tech-loaders.svg" width="100%" alt="React Tech Loaders — animated React loading screens" /></a></td>
+<td width="50%"><a href="https://github.com/aliazam1291/Honeypot-ssh"><img src="assets/mc-code-honeypot-ssh.svg" width="100%" alt="SSH Honeypot — Python and Docker" /></a></td>
 </tr>
 </table>
 
